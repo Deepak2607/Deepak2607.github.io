@@ -1,5 +1,6 @@
-{
-    "bills": [
+//{
+//    "bills": 
+[
     {
     "id": 1,
     "description": "Dominoes",
@@ -49,5 +50,5 @@
     "amount": "3430",
     "date": "01-18-2020"
     }
-    ]
-   }
+]
+//   }
