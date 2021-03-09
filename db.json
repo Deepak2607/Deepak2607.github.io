@@ -3,7 +3,7 @@
     {
     "id": 1,
     "description": "Dominoes",
-    "category": "Food & Dining",
+    "category": "Food and Dining",
     "amount": "430",
     "date": "01-02-2020"
     },
@@ -24,7 +24,7 @@
     {
     "id": 4,
     "description": "House rent",
-    "category": "Food & Dining",
+    "category": "Food and Dining",
     "amount": "35900",
     "date": "01-03-2020"
     },
